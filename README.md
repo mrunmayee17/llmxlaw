@@ -2,7 +2,7 @@
 
 🏆 **WINNER - Stanford CodeX LegalTech Hackathon 2024**
 
-A sophisticated knowledge graph based RAG system for analyzing conflicts of interest in international arbitration, leveraging multiple LLMs and interactive visualization. Built for the Stanford CodeX LegalTech Hackathon.
+A sophisticated knowledge graph based RAG system for analyzing conflicts of interest in international arbitration, leveraging multi agents and interactive visualization. Built for the Stanford CodeX LegalTech Hackathon.
 
 ## Key Features
 
